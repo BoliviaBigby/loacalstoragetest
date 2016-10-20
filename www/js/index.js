@@ -9,7 +9,8 @@ function onLoad() {
     // here is the event handler
     function onDeviceReady() {
 		alert("hi olivia"); //the event handler reacts to a function
-	var key1 = "pen";
+    }
+var key1 = "pen";
 var value1 = "green";
 
 var key2 = "botttle";
