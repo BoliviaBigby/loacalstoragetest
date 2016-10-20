@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+function onLoad() {
+=======
 
     function onLoad() {
+>>>>>>> code update with js
         document.addEventListener("deviceready", onDeviceReady, false);
 		console.log("device ready"); //here is the event listener 
     }
@@ -10,9 +14,7 @@
     // here is the event handler
     function onDeviceReady() {
 		alert("hi olivia"); //the event handler reacts to a function
-        
-	
-    
+
 var key1 = "pen";
 var value1 = "green";
 
