@@ -1,6 +1,4 @@
-
-
-    function onLoad() {
+function onLoad() {
         document.addEventListener("deviceready", onDeviceReady, false);
 		console.log("device ready"); //here is the event listener 
     }
